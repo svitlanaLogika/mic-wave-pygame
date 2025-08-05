@@ -15,5 +15,5 @@
 ## 🛠 Необхідні бібліотеки
 Перед запуском потрібно встановити:
 ```bash
-pip install sounddevice pygame numpy
+pip install sounddevice pygame
 ```
